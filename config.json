@@ -392,10 +392,15 @@
     "input-groups.less",
     "navs.less",
     "navbar.less",
+    "list-group.less",
+    "responsive-embed.less",
+    "component-animations.less",
     "dropdowns.less"
   ],
   "js": [
-    "dropdown.js"
+    "button.js",
+    "dropdown.js",
+    "collapse.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=e8f080cd78970c5cdf67"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=e935adb8e0a214c22fd65d76ab8806fc"
 }
