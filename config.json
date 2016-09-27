@@ -393,6 +393,7 @@
     "navs.less",
     "navbar.less",
     "list-group.less",
+    "panels.less",
     "responsive-embed.less",
     "component-animations.less",
     "dropdowns.less"
@@ -400,7 +401,8 @@
   "js": [
     "button.js",
     "dropdown.js",
+    "tab.js",
     "collapse.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=e935adb8e0a214c22fd65d76ab8806fc"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=b9c176ee3a41631eb818d34b8fb7bd74"
 }
