@@ -392,9 +392,11 @@
     "input-groups.less",
     "navs.less",
     "navbar.less",
+    "badges.less",
     "list-group.less",
     "panels.less",
     "responsive-embed.less",
+    "wells.less",
     "component-animations.less",
     "dropdowns.less"
   ],
@@ -404,5 +406,5 @@
     "tab.js",
     "collapse.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=b9c176ee3a41631eb818d34b8fb7bd74"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=03d11af6ed08b90b66d4047934f11ba1"
 }
