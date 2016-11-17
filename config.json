@@ -393,6 +393,7 @@
     "navs.less",
     "navbar.less",
     "badges.less",
+    "progress-bars.less",
     "list-group.less",
     "panels.less",
     "responsive-embed.less",
@@ -406,5 +407,5 @@
     "tab.js",
     "collapse.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=03d11af6ed08b90b66d4047934f11ba1"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=a845fbc68d4cb317a18fffcdad68f776"
 }
